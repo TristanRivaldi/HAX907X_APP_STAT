@@ -15,7 +15,7 @@ Le code du TP est disponible dans le fichier `svm_script.py` situé dans le doss
 - `svm_gui.py` : Interface graphique pour visualiser les performances des SVM.
 - `svm_source.py` : Script source contenant les fonctions nécessaires pour l'implémentation des SVM.
 
-Le compte rendu a été rédigé au format `.qmd` (Quarto Markdown) dans le fichier `compte_rendu.qmd`, et le PDF correspondant est également mis à disposition sous le nom `compte_rendu.pdf`.
+Le compte rendu a été rédigé au format `.qmd` (Quarto Markdown) dans le fichier `compte_rendu.qmd`, et le PDF correspondant est également mis à disposition sous le nom `compte_rendu.pdf` pour être téléchargé directement.
 
 ## Utilisation
 
